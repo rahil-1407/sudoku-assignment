@@ -1,1 +1,1 @@
-## Sudoku Game Built using HTML,CSS and JS
+### Sudoku Game Built using HTML,CSS and JS
